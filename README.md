@@ -10,14 +10,14 @@ Deploy: (EM BREVE)
 
 ## Sobre
 
-(EM BREVE)
+Se trata de um relógio digital tematizado.
 ### Objetivos
 
-(EM BREVE)
+Praticar HTML, CSS e Javascript.
 
 ### Desafio
 
-(EM BREVE)
+Compreender como funciona o algoritmo de um relógio através do Javascript.
 
 ### Conclusão
 
