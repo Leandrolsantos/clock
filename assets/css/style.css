@@ -24,6 +24,9 @@ main {
     border-radius: 600px;
     border: 15px groove #333;
     position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .number {
@@ -35,4 +38,79 @@ main {
     text-align: center;
     padding: 5px;
     transform: rotate(30deg);
+}
+
+.number-1 {
+    transform: rotate(30deg);
+}
+.number-2 {
+    transform: rotate(60deg);
+}
+.number-3 {
+    transform: rotate(90deg);
+}
+.number-4 {
+    transform: rotate(120deg);
+}
+.number-5 {
+    transform: rotate(150deg);
+}
+.number-6 {
+    transform: rotate(180deg);
+}
+.number-7 {
+    transform: rotate(210deg);
+}
+.number-8 {
+    transform: rotate(240deg);
+}
+.number-9 {
+    transform: rotate(270deg);
+}
+.number-10 {
+    transform: rotate(300deg);
+}
+.number-11 {
+    transform: rotate(330deg);
+}
+.number-12 {
+    transform: rotate(360deg);
+}
+
+.second-hand {
+    width: 5px;
+    height: 240px;
+    background-color: #a52a2a;
+    position: absolute;
+    transform: translate(0, -50%);
+    transform-origin: bottom center;
+    border-radius: 5px;
+}
+
+.minute-hand {
+    width: 8px;
+    height: 220px;
+    background-color: #333;
+    position: absolute;
+    transform: translate(0, -50%);
+    transform-origin: bottom center;
+    border-radius: 5px;
+}
+
+.hour-hand {
+    width: 13px;
+    height: 150px;
+    background-color: #333;
+    position: absolute;
+    transform: translate(0, -50%);
+    transform-origin: bottom center;
+    border-radius: 13px;
+}
+
+.center {
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    background-color: #a52a2a;
+    position: absolute;
 }
