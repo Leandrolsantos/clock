@@ -10,10 +10,10 @@ Deploy: (EM BREVE)
 
 ## Sobre
 
-Se trata de um relógio digital tematizado.
+Se trata de um relógio digital para desktop. Irei tematizar e deixá-lo dinamico, em breve adicionarei mais detalhes.
 ### Objetivos
 
-Praticar HTML, CSS e Javascript.
+Praticar HTML, CSS e Javascript. É um projeto bem simples somente para praticar meus conhecimentos de Javascript.
 
 ### Desafio
 
