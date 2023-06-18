@@ -6,7 +6,7 @@
 
 ![](./assets/img/telagif.gif)
 
-Deploy: (EM BREVE)
+Deploy: https://clock-nine-theta.vercel.app/
 
 ## Sobre
 
