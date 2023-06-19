@@ -10,6 +10,7 @@
 body {
     background: url(/assets/img/fundo.gif) no-repeat;
     background-size: cover;
+    min-height: 100vh;
 }
 
 main {
@@ -135,4 +136,32 @@ main {
     background-color: #a52a2a;
     position: absolute;
     border: 2px solid white;
+}
+
+@media (max-width: 900px) {
+    
+    body {
+        margin: 0 auto;
+        padding: 0 auto;
+    }
+
+    .clock {
+        min-width: 310px;
+        min-height: 310px;
+        margin-top: 100px;
+    }
+
+    .second-hand {
+        width: 5px;
+        height: 102px;
+    }
+    
+    .minute-hand {
+        width: 8px;
+        height: 97px;
+    }
+    
+    .hour-hand {
+        width: 13px;
+        height: 75px;
 }
